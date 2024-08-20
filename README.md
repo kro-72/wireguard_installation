@@ -10,7 +10,7 @@
 ![PHOTO](/ios/24-08-20%2012-53-06%203264.png)
 -
 <a href="url"><img src="https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-53-06%203264.png" align="left" height="865" width="400" ></a>
-<br>
+<hr>
 
 - Открываем файл конфигурации
   
