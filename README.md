@@ -1,7 +1,7 @@
 # Установка Wireguard
 * [Установка на IOS/IpadOS](#chapter-0)
-1. [С помощью QR-кода](#chapter-01)
-2. [С помощью файла конфигурации](#chapter-02)
+  1. [С помощью QR-кода](#chapter-01)
+  2. [С помощью файла конфигурации](#chapter-02)
 * [Установка на Windows](#chapter-1)
 * [Установка на MacOS](#chapter-2)
 * [Установка на Android](#chapter-3)
