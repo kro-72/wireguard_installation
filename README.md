@@ -1,14 +1,25 @@
 # Установка Wireguard
 * [Установка на IOS/IpadOS](#chapter-0)
+** [С помощью QR-кода](#chapter-01)
+** [С помощью файла конфигурации](#chapter-02)
 * [Установка на Windows](#chapter-1)
 * [Установка на MacOS](#chapter-2)
 * [Установка на Android](#chapter-3)
 
 <a id="chapter-0"></a>
 ## Установка на IOS/IpadOS
+
 - Скачиваем [Wireguard](https://apps.apple.com/ru/app/wireguard/id1441195209?l=en-GB) из AppStore
 
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-53-06%203264.png)
+
+<a id="chapter-01"></a>
+### С помощью QR-кода
+
+
+
+<a id="chapter-02"></a>
+### С помощью файла конфигурации
 
 - Открываем файл конфигурации
   
