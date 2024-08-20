@@ -7,9 +7,8 @@
 <a id="chapter-0"></a>
 ## Установка на IOS/IpadOS
 - Скачиваем [Wireguard](https://apps.apple.com/ru/app/wireguard/id1441195209?l=en-GB) из AppStore
+
 ![PHOTO](/ios/24-08-20%2012-53-06%203264.png)
--
-<img src="https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-53-06%203264.png" align="left" height="865" width="400" >
 
 - Открываем файл конфигурации
   
