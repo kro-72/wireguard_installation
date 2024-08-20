@@ -8,35 +8,35 @@
 ## Установка на IOS/IpadOS
 - Скачиваем [Wireguard](https://apps.apple.com/ru/app/wireguard/id1441195209?l=en-GB) из AppStore
 
-![PHOTO](/ios/24-08-20%2012-53-06%203264.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-53-06%203264.png)
 
 - Открываем файл конфигурации
   
-![PHOTO](/ios/24-08-20%2012-54-24%203265.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-24%203265.png)
 
 - Нажимаем поделиться
   
-![PHOTO](/ios/24-08-20%2012-54-28%203266.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-28%203266.png)
 
 - Листаем список риложений до конца
   
-![PHOTO](/ios/24-08-20%2012-54-38%203267.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-38%203267.png)
 
 - Нажимаем на "три точки"
 
-![PHOTO](/ios/24-08-20%2012-54-43%203268.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-43%203268.png)
 
 - Ищем Wireguard в списке и нажимаем на него
 
-![PHOTO](/ios/24-08-20%2012-54-55%203269.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-55%203269.png)
 
 - Включаем
 
-![PHOTO](/ios/24-08-20%2012-55-02%203270.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-55-02%203270.png)
 
 - Соединение установлено, если появилось `Data revieved` (`Полученно данных`)
 
-![PHOTO](/ios/24-08-20%2012-55-27%203271.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-55-27%203271.png)
 
 <a id="chapter-1"></a>
 ## Установка на Windows
@@ -44,45 +44,45 @@
 
 - Окно программы откроется автоматически. Нажимаем `Импорт тоннелей из файла`
 
-![PHOTO](/windows/Снимок%20экрана%202024-08-20%20124153.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/windows/Снимок%20экрана%202024-08-20%20124153.png)
 
 - Выбираем файл конфигурации
 
-![PHOTO](/windows/Снимок%20экрана%202024-08-20%20124334.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/windows/Снимок%20экрана%202024-08-20%20124334.png)
 
 - Нажимаем `Подключить`
 
-![PHOTO](/windows/Снимок%20экрана%202024-08-20%20124500.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/windows/Снимок%20экрана%202024-08-20%20124500.png)
 
 - Соединение установлено, если появилось `Data revieved` (`Получено`)
 
-![PHOTO](/windows/Снимок%20экрана%202024-08-20%20124638.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/windows/Снимок%20экрана%202024-08-20%20124638.png)
 
 <a id="chapter-2"></a>
 ## Установка на MacOS
 - Скачиваем [Wireguard](https://apps.apple.com/ru/app/wireguard/id1451685025?mt=12)
 
-![PHOTO](/macos/Снимок%20экрана%202024-08-20%20в%2012.22.55.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/macos/Снимок%20экрана%202024-08-20%20в%2012.22.55.png)
 
 - Нажимаем `Импорт тоннелей из файла`
 
-![PHOTO](/macos/Снимок%20экрана%202024-08-20%20в%2012.23.59.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/macos/Снимок%20экрана%202024-08-20%20в%2012.23.59.png)
 
 - Выбираем файл конфигурации
 
-![PHOTO](/macos/Снимок%20экрана%202024-08-20%20в%2012.27.14.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/macos/Снимок%20экрана%202024-08-20%20в%2012.27.14.png)
 
 - Разрешаем добавление конфигурации
 
-![PHOTO](/macos/Снимок%20экрана%202024-08-20%20в%2012.27.36.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/macos/Снимок%20экрана%202024-08-20%20в%2012.27.36.png)
 
 - Нажимаем `Подключение`
 
-![PHOTO](/macos/Снимок%20экрана%202024-08-20%20в%2012.28.12.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/macos/Снимок%20экрана%202024-08-20%20в%2012.28.12.png)
 
 - Соединение установлено, если появилось `Data revieved` (`Получено данных`)
 
-![PHOTO](/macos/Снимок%20экрана%202024-08-20%20в%2012.28.24.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/macos/Снимок%20экрана%202024-08-20%20в%2012.28.24.png)
 
 <a id="chapter-3"></a>
 ## Установка на Android
