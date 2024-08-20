@@ -13,14 +13,17 @@
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-53-06%203264.png)
 
 - Нажимаем на `+`
+
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/photo_2024-08-20_16-26-42.jpg)
 
 - Нажимаем `Создать из QR-кода`
+
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/photo_2024-08-20_16-26-52.jpg)
 
 - Сканируем код
 
 - Вписываем имя тоннеля. Оно будет отображаться только вам
+
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/photo_2024-08-20_16-26-50.jpg)
 
 - Включаем
