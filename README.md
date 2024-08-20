@@ -22,7 +22,7 @@
 
 - Сканируем код
 
-- Вписываем имя тоннеля. Оно будет отображаться только вам
+- Вписываем имя туннеля. Оно будет отображаться только вам
 
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/photo_2024-08-20_16-26-50.jpg)
 
@@ -75,7 +75,7 @@
 ## Установка на Windows
 - Скачиваем и устанавливаем [Wireguard](https://github.com/kro-72/wireguard_installation/raw/main/windows/wireguard-installer.exe)
 
-- Окно программы откроется автоматически. Нажимаем `Импорт тоннелей из файла`
+- Окно программы откроется автоматически. Нажимаем `Импорт туннелей из файла`
 
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/windows/Снимок%20экрана%202024-08-20%20124153.png)
 
@@ -97,7 +97,7 @@
 
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/macos/Снимок%20экрана%202024-08-20%20в%2012.22.55.png)
 
-- Нажимаем `Импорт тоннелей из файла`
+- Нажимаем `Импорт туннелей из файла`
 
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/macos/Снимок%20экрана%202024-08-20%20в%2012.23.59.png)
 
