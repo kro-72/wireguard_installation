@@ -8,7 +8,7 @@
 ## Установка на IOS/IpadOS
 - Скачиваем [Wireguard](https://apps.apple.com/ru/app/wireguard/id1441195209?l=en-GB) из AppStore
   
-![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-53-06%203264.png)
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-53-06%203264.png =250x250)
 
 - Открываем файл конфигурации
   
@@ -34,6 +34,6 @@
 
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-55-02%203270.png)
 
-- Соединение установлено, если появилось Data reviewed (Полученно данных)
+- Соединение установлено, если появилось Data revieved (Полученно данных)
 
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-55-27%203271.png)
