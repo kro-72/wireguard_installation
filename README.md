@@ -37,7 +37,7 @@
 
 
 <a id="chapter-02"></a>
-### Установка на IOS/IpadOS с помощью файла конфигурации
+## Установка на IOS/IpadOS с помощью файла конфигурации
 
 - Скачиваем [Wireguard](https://apps.apple.com/ru/app/wireguard/id1441195209?l=en-GB) из AppStore
 
