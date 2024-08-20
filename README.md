@@ -58,6 +58,7 @@
 
 ![PHOTO](/windows/Снимок%20экрана%202024-08-20%20124638.png)
 
+<a id="chapter-2"></a>
 ## Установка на MacOS
 - Скачиваем [Wireguard](https://apps.apple.com/ru/app/wireguard/id1451685025?mt=12)
 
@@ -82,3 +83,6 @@
 - Соединение установлено, если появилось `Data revieved` (`Получено данных`)
 
 ![PHOTO](/macos/Снимок%20экрана%202024-08-20%20в%2012.28.24.png)
+
+<a id="chapter-3"></a>
+## Установка на Android
