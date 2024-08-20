@@ -1,2 +1,1 @@
-# wireguard_installation
-Установка Wireguard
+# Установка Wireguard
