@@ -12,28 +12,48 @@
 
 - Открываем файл конфигурации
   
-![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-24%203265.png)
+![PHOTO](/ios/24-08-20%2012-54-24%203265.png)
 
 - Нажимаем поделиться
   
-![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-28%203266.png)
+![PHOTO](/ios/24-08-20%2012-54-28%203266.png)
 
 - Листаем список риложений до конца
   
-![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-38%203267.png)
+![PHOTO](/ios/24-08-20%2012-54-38%203267.png)
 
 - Нажимаем на "три точки"
 
-![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-43%203268.png)
+![PHOTO](/ios/24-08-20%2012-54-43%203268.png)
 
 - Ищем Wireguard в списке и нажимаем на него
 
-![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-55%203269.png)
+![PHOTO](/ios/24-08-20%2012-54-55%203269.png)
 
 - Включаем
 
-![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-55-02%203270.png)
+![PHOTO](/ios/24-08-20%2012-55-02%203270.png)
 
-- Соединение установлено, если появилось Data revieved (Полученно данных)
+- Соединение установлено, если появилось `Data revieved` (`Полученно данных`)
 
-![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-55-27%203271.png)
+![PHOTO](/ios/24-08-20%2012-55-27%203271.png)
+
+<a id="chapter-1"></a>
+## Установка на Windows
+- Скачиваем и устанавливаем [Wireguard](https://github.com/kro-72/wireguard_installation/raw/main/windows/wireguard-installer.exe)
+
+- Окно программы откроется автоматически. Нажимаем `Импорт тоннелей из файла`
+
+![PHOTO](/windows/Снимок%20экрана%202024-08-20%20124153.png)
+
+- Выбираем файл конфигурации
+
+![PHOTO](/windows/Снимок%20экрана%202024-08-20%20124334.png)
+
+- Нажимаем `Подключить`
+
+![PHOTO](/windows/Снимок%20экрана%202024-08-20%20124500.png)
+
+- Соединение установлено, если появилось `Data revieved` (`Полученно данных`)
+
+![PHOTO](/windows/Снимок%20экрана%202024-08-20%20124638.png)
