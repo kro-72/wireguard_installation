@@ -1,7 +1,7 @@
 # Установка Wireguard
 * [Установка на IOS/IpadOS](#chapter-0)
-  [С помощью QR-кода](#chapter-01)
-  [С помощью файла конфигурации](#chapter-02)
+  1. [С помощью QR-кода](#chapter-01)
+  2. [С помощью файла конфигурации](#chapter-02)
 * [Установка на Windows](#chapter-1)
 * [Установка на MacOS](#chapter-2)
 * [Установка на Android](#chapter-3)
@@ -16,7 +16,16 @@
 <a id="chapter-01"></a>
 ### С помощью QR-кода
 
+- Нажимаем на `+`
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-24%203265.png)
 
+- Нажимаем `Создать из QR-кода`
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-24%203265.png)
+
+- Вписываем имя тоннеля. Оно будет отображаться только вам
+![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-24%203265.png)
+
+[Продолжение](#chapter-c)
 
 <a id="chapter-02"></a>
 ### С помощью файла конфигурации
@@ -41,6 +50,8 @@
 
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-54-55%203269.png)
 
+<a id="chapter-c"></a>
+### Продолжение
 - Включаем
 
 ![PHOTO](https://github.com/kro-72/wireguard_installation/blob/main/ios/24-08-20%2012-55-02%203270.png)
